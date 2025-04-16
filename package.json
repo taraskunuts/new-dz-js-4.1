@@ -1,0 +1,12 @@
+{
+  "name": "new-ds-js-4",
+  "version": "1.8.34",
+  "description": "Cat calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node main.js"
+  },
+  "author": "taraskunytaskui (@taraskunytski)",
+  "license": "ISC"
+}
